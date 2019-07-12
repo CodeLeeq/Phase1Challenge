@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phase1Challenge</string>
+    <string name="welcome">Welcome To ALC 4.0 Phase 1 Challenge</string>
+    <string name="notice">**Click any of the button below to perform an action.</string>
+    <string name="alcWebpage">Go To Official ALC Web Page</string>
+    <string name="myProfile">Check My Profile</string>
+</resources>
